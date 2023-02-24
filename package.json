@@ -1,0 +1,15 @@
+{
+  "name": "cricbot",
+  "version": "1.0.0",
+  "description": "A bot for cricket",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aryan Tajne",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
